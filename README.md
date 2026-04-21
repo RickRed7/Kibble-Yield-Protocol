@@ -1,16 +1,17 @@
 # Kibble-Yield-Protocol
-# PROPRIETARY EVALUATION LICENSE
+# Safe Canine Ecosystem
 
-Copyright (c) 2026 Richard A. DiMassa Jr.
-All Rights Reserved.
+A transparent, security-first dApp for puppy collectibles and rewards.
 
-This source code is made public for the purpose of technical audit, 
-academic review, and local testing only. 
+## Security Features
+- **Zero Unlimited Approvals:** This contract never asks for 'Approve All' permissions.
+- **Audited Foundations:** Built using OpenZeppelin v5.0.
+- **Reentrancy Guard:** Protected against common flash-loan and recursive call attacks.
+- **Fixed Supply Logic:** Rewards are calculated mathematically, not through a referral pyramid.
 
-1. LIMITED USE: Users may download and run this software locally for evaluation.
-2. COMMERCIAL RESTRICTION: No commercial use, redistribution, or hosting of 
-   this software as a service is permitted without express written consent 
-   from the Lead Architect.
-3. MODIFICATIONS: Derivative works must maintain this license and 
-   attribute original ownership to Richard A. DiMassa Jr.
-   
+## Getting Started
+1. Install dependencies: `npm install`
+2. Compile contracts: `npx hardhat compile`
+3. Run security tests: `npx hardhat test`
+4. Deploy to local network: `npx hardhat run scripts/deploy.js --network localhost`
+5. 
