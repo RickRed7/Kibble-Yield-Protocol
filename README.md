@@ -1,2 +1,16 @@
 # Kibble-Yield-Protocol
-Kibble-Yield-Protocol is a high-integrity DeFi rewards engine designed to replace non-verified asset drainers with secure, audited smart contracts. Utilizing the Sovereign-Gateway architecture, it provides transparent minting and utility-token rewards without the risk of unlimited approvals or hidden deposits. Professional-grade pet-Fi.
+# PROPRIETARY EVALUATION LICENSE
+
+Copyright (c) 2026 Richard A. DiMassa Jr.
+All Rights Reserved.
+
+This source code is made public for the purpose of technical audit, 
+academic review, and local testing only. 
+
+1. LIMITED USE: Users may download and run this software locally for evaluation.
+2. COMMERCIAL RESTRICTION: No commercial use, redistribution, or hosting of 
+   this software as a service is permitted without express written consent 
+   from the Lead Architect.
+3. MODIFICATIONS: Derivative works must maintain this license and 
+   attribute original ownership to Richard A. DiMassa Jr.
+   
