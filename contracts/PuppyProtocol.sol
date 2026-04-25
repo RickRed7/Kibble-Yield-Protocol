@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Proprietary
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.200;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
